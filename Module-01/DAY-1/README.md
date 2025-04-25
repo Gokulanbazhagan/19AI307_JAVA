@@ -18,22 +18,33 @@ To create a class named 'Student' with String variable 'name' and String variabl
 
 ## PROGRAM:
  ```
-/*
+///
 Program to implement a class & objects using Java
-Developed by: 
-RegisterNumber:  
-*/
-```
+Developed by: Gokularamanan K
+RegisterNumber: 212222230040
+///
 
+class Student {
+        String dept;
+        String name;
+        int rollno;
+}
+public Test Main {
+    public static void main(String[] args) {
+        Student obj= new Student();
+        obj.dept="AIML";
+        obj.name="John";
+        obj.rollno=15;   
+        System.out.println(obj.dept+" "+obj.name+" "+obj.rollno);
+    }   
+} 
+
+
+```
 ## Sourcecode.java:
 
-
-
-
-
-
-
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/8dadbe3a-45f8-453f-b089-ec3fcff22fec)
 
 
 
