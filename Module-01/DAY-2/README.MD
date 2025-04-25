@@ -24,9 +24,20 @@ b)	If the condition is false, print "false" using the 'print' method of 'System.
  ```
 /*
 Program to implement a variable and operators using Java
-Developed by: 
-RegisterNumber:  
+Developed by: Gokularamanan K
+RegisterNumber:  212222230040
 */
+
+public class ConditionCheck {
+    public static void main(String[] args) {
+        int a = 10;
+        int b = 50;
+
+        boolean result = (a < 50) || (a < b);
+
+        System.out.println(result);
+    }
+}
 ```
 
 ## Sourcecode.java:
