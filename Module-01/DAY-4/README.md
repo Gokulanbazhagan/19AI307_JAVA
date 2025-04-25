@@ -27,17 +27,28 @@ Program to implement a User Defined Method using Java
 Developed by: 
 RegisterNumber:  
 */
+
+import java.util.*;
+public class Area {
+       void calculateArea() {
+        int length = 10;
+        int width = 20;
+        double area = length * width;
+        System.out.printf("Area of Rectangle is %.1f",area);
+    }
+       public static void main(String[] args) {
+       Area obj=new Area();
+       obj.calculateArea();
+       }
+}
 ```
 
 ## Sourcecode.java:
 
 
 
-
-
-
-
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/7f526d07-82ab-457f-8176-d11299feabc4)
 
 
 
