@@ -7,7 +7,7 @@ To create a class named 'Student' with String variable 'name' and integer variab
 1.	Start the program.
 2.	Define a class named 'Student'
 3.	Declare a String variable 'name' and initialize it with the value "John"
-4.	Declare a integer variable rollno and initialize it with the value "Chennai"
+4.	Declare a integer variable rollno and initialize it with the value "15"
 5.	Define a class named 'Test'
 6.	Define the 'main' method within the 'Test' class
 7.	Create an object 'obj' of the 'Student' class
