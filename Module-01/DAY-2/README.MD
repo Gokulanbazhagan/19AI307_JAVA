@@ -21,6 +21,7 @@ b)	If the condition is false, print "false" using the 'print' method of 'System.
 
 
 ## PROGRAM:
+## Sourcecode.java:
  ```
 /*
 Program to implement a variable and operators using Java
@@ -40,15 +41,12 @@ public class ConditionCheck {
 }
 ```
 
-## Sourcecode.java:
-
-
-
-
 
 
 
 ## OUTPUT:
+
+true
 
 
 
