@@ -69,5 +69,5 @@ public class Distance
 
 
 ## RESULT:
-Thus, the Java program for the concept of using a Class and Object  was correctly implemented and verified successfully. 
+Thus, the java program create a class named 'Distance' to add two distances in inch-feet by using third object. Get Input from user was correctly implemented and verified successfully. 
 
