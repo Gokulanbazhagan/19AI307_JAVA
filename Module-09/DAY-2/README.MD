@@ -52,6 +52,9 @@ public class Main {
 ```
 
 ## OUTPUT:
+```
+Output stream: hello java
+```
 
 
 ## RESULT:
